@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-int main() {
-  printf("Welcome to DX for AllWinner.\n");
+int main()
+{
+  printf ("Welcome to DX for AllWinner.\n");
 }

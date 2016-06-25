@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-  printf("Welcome to DFYM\n");
+  printf("Welcome to DX for AllWinner.\n");
 }
